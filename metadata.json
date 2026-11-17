@@ -1,0 +1,6 @@
+{
+  "name": "namukunzAI",
+  "description": "Intelligence artificielle holographique inspirée de Gideon pour l'analyse de données en temps réel, la synthèse scientifique et la gestion vocale des tâches quotidiennes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

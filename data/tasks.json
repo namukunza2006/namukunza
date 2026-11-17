@@ -1,0 +1,32 @@
+[
+  {
+    "id": "task-init-1",
+    "title": "Synthétiser les métriques de latence du cluster distribué",
+    "category": "Informatique",
+    "priority": "haute",
+    "dueTime": "09:30",
+    "notes": "Identifier les goulots d’étranglement P99 et proposer une optimisation de cache.",
+    "completed": false,
+    "createdAt": "2026-11-17T19:38:07.832Z"
+  },
+  {
+    "id": "task-init-2",
+    "title": "Vérifier les équations de diffusion thermique non linéaire",
+    "category": "Sciences",
+    "priority": "normale",
+    "dueTime": "14:00",
+    "notes": "Contrôler la stabilité numérique du schéma de Crank-Nicolson.",
+    "completed": false,
+    "createdAt": "2026-11-17T19:38:07.832Z"
+  },
+  {
+    "id": "task-init-3",
+    "title": "Revue quotidienne de veille quantique et IA embarquée",
+    "category": "Quotidien",
+    "priority": "basse",
+    "dueTime": "18:00",
+    "notes": "Résumé vocal rapide avec namukunzAI en fin de journée.",
+    "completed": true,
+    "createdAt": "2026-11-17T19:38:07.832Z"
+  }
+]
